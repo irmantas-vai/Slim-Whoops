@@ -156,7 +156,7 @@ class Whoops
     }
 
     /**
-     * @param boolean $ption
+     * @param boolean $option
      */
     protected function setTransmitExceptionCode($option)
     {
